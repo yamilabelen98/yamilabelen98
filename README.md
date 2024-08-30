@@ -1,6 +1,6 @@
 <h1 align="center"> 🌌🌌🌌Hi there 🌌🌌🌌</h1>
 <img src="https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif" width= "1050px" height="320px"/>
-<p>My name is Yamila De Olivera 👋 and I'm a 24 years old Argentinian Full Stack Web Developer ❤️‍🔥.
+<p>My name is Yamila De Olivera 👋 and I'm a 25 years old Argentinian Full Stack Web Developer ❤️‍🔥.
 Ever since I was a child I wanted to program videogames but at some point in life I ended up doing Civil Engineering🤔. During the pandemic, I had plenty of time available to wonder if that was really what I wanted to do with my life. Turns out it wasn't 😅. On August 2022, I entered HENRY for the full stack developer course. It was at that moment that I knew that was what I wanted to do with my life 😄. After giving my all I graduated from HENRY🤯.
 On this Github you will find a collection of practices I completed since I started programming. Hope you enjoy it!😉<p>
  
