@@ -23,7 +23,7 @@ Aquí encontrarás una colección de proyectos y prácticas que reflejan mi viaj
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js" width="52px" height="53px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" width="65px" height="53px">
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="50px" height="51px">
-  <img src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh14lb3LH4C886qWxYA%2F-Lh1DZeIUQennGd9RiHe%2FScreen%20Shot%202019-06-10%20at%2011.30.20%20AM.png?alt=media&token=784b79f6-81b5-4308-97a2-155afb9d496f" alt="Express.js" width="84px" height="53px">
+  <img src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh14lb3LH4C886qWxYA%2F-Lh1DZeIUQennGd9RiHe%2FScreen%20Shot%202019-06-10%20at%2011.30.20%20AM.png?alt=media&token=784b79f6-81b5-4308-97a2-155afb9d496f" alt="Express.js" width="84px" height="56px">
   <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="Sequelize" width="75px" height="53px">
   <img src="https://cdn.iconscout.com/icon/free/png-64/postgresql-11-1175122.png" alt="PostgreSQL" width="52px" height="53px">
 </div>
@@ -32,19 +32,21 @@ Aquí encontrarás una colección de proyectos y prácticas que reflejan mi viaj
 
 ### 🌱 Actualmente
 
-Estoy enfocada en fortalecer mis conocimientos y aprender nuevas tecnologías, como:
+Estoy enfocada en fortalecer mis conocimientos y aprender nuevas tecnologías:
 
-- 🐍 **Python**
-- 🚀 **Astro**
-- 📘 **TypeScript**
-- 📱 **React Native**
+<div align="center">
+  <img src="https://cdn.iconscout.com/icon/free/png-64/python-3521655-2945099.png" alt="Python" width="52px" height="53px">
+  <img src="https://avatars.githubusercontent.com/u/44513990?s=280&v=4" alt="Astro" width="52px" height="53px">
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="52px" height="53px">
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="52px" height="53px">
+</div>
 
 ---
 
 ### 📫 Conecta conmigo
 
 - ✉️ Email: [yami40521@gmail.com](mailto:yami40521@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yamila-de-olivera-664317230/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yamila-de-olivera/)
 - 🌐 [Mi Portafolio](https://master--portafolio-yamila-de-olivera.netlify.app/)
 
 ---
@@ -58,4 +60,3 @@ Estoy enfocada en fortalecer mis conocimientos y aprender nuevas tecnologías, c
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
-
