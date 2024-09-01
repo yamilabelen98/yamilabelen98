@@ -38,7 +38,8 @@ Estoy enfocada en fortalecer mis conocimientos y aprender nuevas tecnologías:
   <img src="https://cdn.iconscout.com/icon/free/png-64/python-3521655-2945099.png" alt="Python" width="52px" height="53px">
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" alt="Astro" width="52px" height="53px">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="52px" height="53px">
-  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" alt="Expo React-Native" width="52px" height="53px">
+  <img src="![expo_icon_132404](https://github.com/user-attachments/assets/9593a0f8-5d46-446c-a805-ad84ddd8450c)
+" alt="Expo React-Native" width="52px" height="53px">
 </div>
 
 ---
