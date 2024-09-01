@@ -44,7 +44,7 @@ I’m focused on strengthening my skills and learning new technologies:
 
 ### 🌐 Portfolio with Astro
 
-Welcome to my web portfolio created with [Astro](https://master--portafolio-yamila-de-olivera.netlify.app/)! 🚀
+Welcome to my web portfolio created with ## 🌐 [Visita mi portafolio aquí](https://master--portafolio-yamila-de-olivera.netlify.app/)! 🚀
 
 ![Portfolio](https://github.com/user-attachments/assets/8948b5ae-9be4-4967-b77a-ced71b692c95)
 
