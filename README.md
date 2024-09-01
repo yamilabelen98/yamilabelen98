@@ -42,11 +42,29 @@ I’m focused on strengthening my skills and learning new technologies:
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Portfolio with Astro
 
-- ✉️ Email: [yami40521@gmail.com](mailto:yami40521@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yamila-de-olivera/)
-- 🌐 [My Portfolio](https://master--portafolio-yamila-de-olivera.netlify.app/)
+Welcome to my web portfolio created with [Astro](https://astro.build/)! 🚀
+
+## 🌐 [Visit My Portfolio Here](https://master--portafolio-yamila-de-olivera.netlify.app/)
+
+![Portfolio](https://github.com/user-attachments/assets/8948b5ae-9be4-4967-b77a-ced71b692c95)
+
+## ✨ Features
+
+- **CV Download:** Access my updated resume to learn more about my professional experience.
+- **Light and Dark Mode:** Switch between visual modes for a better user experience.
+- **Contact:** Easily get in touch with me via email.
+- **About Me:** Learn more about my professional profile and interests.
+- **Projects:** Explore the projects I've worked on, showcasing my skills and creativity.
+- **Experience:** Review my professional journey and the skills I've developed.
+
+## 📬 Want to Contact Me?
+You can send me an email directly from my portfolio.
+
+## 🚧 Coming Soon
+I’m working on new features and projects to enhance my portfolio. Stay tuned!
+
 
 ---
 
