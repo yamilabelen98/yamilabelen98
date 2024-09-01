@@ -1,4 +1,4 @@
-<h1 align="center">🌌 Bienvenidos a mi Universo 🌌</h1>
+<h1 align="center">🌌 Welcome to My Universe 🌌</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif" width="800px" height="300px"/>
@@ -6,15 +6,15 @@
 
 ---
 
-### 👋 ¡Hola! Soy Yamila De Olivera
+### 👋 Hi! I'm Yamila De Olivera
 
-Soy una Desarrolladora Web Full Stack de 25 años, originaria de Argentina. Mi pasión por la tecnología comenzó con un sueño de la infancia: programar videojuegos. Sin embargo, la vida me llevó por el camino de la Ingeniería Civil 🤔. Durante la pandemia, tuve tiempo de reflexionar y decidí seguir mi verdadera pasión. En agosto de 2022, me uní a HENRY para convertirme en desarrolladora Full Stack y cambiarme de carrera a Ingeniería Informática. Desde entonces, ¡no he mirado atrás! 🚀
+I’m a 25-year-old Full Stack Web Developer from Argentina. My passion for technology started with a childhood dream: programming video games. However, life led me down the path of Civil Engineering 🤔. During the pandemic, I had time to reflect and decided to pursue my true passion. In August 2022, I joined HENRY to become a Full Stack Developer and switch my career to Computer Science. Since then, I haven’t looked back! 🚀
 
-Aquí encontrarás una colección de proyectos y prácticas que reflejan mi viaje en el mundo de la programación. ¡Espero que disfrutes explorándolos tanto como yo disfruté creándolos! 😉
+Here you'll find a collection of projects and practices that reflect my journey in the programming world. I hope you enjoy exploring them as much as I enjoyed creating them! 😉
 
 ---
 
-### 💡 Tecnologías que domino
+### 💡 Technologies I Master
 
 <div align="center">
   <img src="https://www.w3.org/html/logo/img/mark-only-icon.png" alt="HTML" width="52px" height="53px">
@@ -30,34 +30,33 @@ Aquí encontrarás una colección de proyectos y prácticas que reflejan mi viaj
 
 ---
 
-### 🌱 Actualmente
+### 🌱 Currently
 
-Estoy enfocada en fortalecer mis conocimientos y aprender nuevas tecnologías:
+I’m focused on strengthening my skills and learning new technologies:
 
 <div align="center">
   <img src="https://cdn.iconscout.com/icon/free/png-64/python-3521655-2945099.png" alt="Python" width="52px" height="53px">
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Astro.png" alt="Astro" width="52px" height="53px">
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="52px" height="53px">
-  <img src="![expo_icon_132404](https://github.com/user-attachments/assets/9593a0f8-5d46-446c-a805-ad84ddd8450c)
-" alt="Expo React-Native" width="52px" height="53px">
 </div>
 
 ---
 
-### 📫 Conecta conmigo
+### 📫 Connect with Me
 
 - ✉️ Email: [yami40521@gmail.com](mailto:yami40521@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yamila-de-olivera/)
-- 🌐 [Mi Portafolio](https://master--portafolio-yamila-de-olivera.netlify.app/)
+- 🌐 [My Portfolio](https://master--portafolio-yamila-de-olivera.netlify.app/)
 
 ---
 
-### 🎮 Algunos datos curiosos sobre mí
+### 🎮 Some Fun Facts About Me
 
-- 💄 Además de programar, soy maquilladora profesional. Mi sueño es desarrollar una app relacionada con el maquillaje y el cuidado de la piel.
-- 🎮 Me encanta el gaming y dibujar en mi tiempo libre.
-- 😊 Soy un poco tímida al principio, ¡pero una vez que entro en confianza, me encanta socializar!
+- 💄 Besides coding, I’m a professional makeup artist. My dream is to develop an app related to makeup and skincare.
+- 🎮 I love gaming and drawing in my free time.
+- 😊 I’m a bit shy at first, but once I get comfortable, I love to socialize!
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+Thanks for visiting my profile! 🚀
+
