@@ -8,7 +8,7 @@
 
 ### 👋 ¡Hola! Soy Yamila De Olivera
 
-Soy una Desarrolladora Web Full Stack de 25 años, originaria de Argentina. Mi pasión por la tecnología comenzó con un sueño de la infancia: programar videojuegos. Sin embargo, la vida me llevó por el camino de la Ingeniería Civil 🤔. Durante la pandemia, tuve tiempo de reflexionar y decidí seguir mi verdadera pasión. En agosto de 2022, me uní a HENRY para convertirme en desarrolladora Full Stack, y desde entonces, ¡no he mirado atrás! 🚀
+Soy una Desarrolladora Web Full Stack de 25 años, originaria de Argentina. Mi pasión por la tecnología comenzó con un sueño de la infancia: programar videojuegos. Sin embargo, la vida me llevó por el camino de la Ingeniería Civil 🤔. Durante la pandemia, tuve tiempo de reflexionar y decidí seguir mi verdadera pasión. En agosto de 2022, me uní a HENRY para convertirme en desarrolladora Full Stack y cambiarme de carrera a Ingeniería Informática. Desde entonces, ¡no he mirado atrás! 🚀
 
 Aquí encontrarás una colección de proyectos y prácticas que reflejan mi viaje en el mundo de la programación. ¡Espero que disfrutes explorándolos tanto como yo disfruté creándolos! 😉
 
@@ -32,7 +32,12 @@ Aquí encontrarás una colección de proyectos y prácticas que reflejan mi viaj
 
 ### 🌱 Actualmente
 
-Estoy enfocada en fortalecer mis conocimientos y seguir aprendiendo nuevas tecnologías.
+Estoy enfocada en fortalecer mis conocimientos y aprender nuevas tecnologías, como:
+
+- 🐍 **Python**
+- 🚀 **Astro**
+- 📘 **TypeScript**
+- 📱 **React Native**
 
 ---
 
@@ -46,10 +51,11 @@ Estoy enfocada en fortalecer mis conocimientos y seguir aprendiendo nuevas tecno
 
 ### 🎮 Algunos datos curiosos sobre mí
 
-- 💄 Además de programar, soy maquilladora profesional y mi sueño es desarrollar una app relacionada con el maquillaje.
-- 🎮 Me encanta el gaming y hacer streaming en mi tiempo libre.
+- 💄 Además de programar, soy maquilladora profesional. Mi sueño es desarrollar una app relacionada con el maquillaje y el cuidado de la piel.
+- 🎮 Me encanta el gaming y dibujar en mi tiempo libre.
 - 😊 Soy un poco tímida al principio, ¡pero una vez que entro en confianza, me encanta socializar!
 
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
+
