@@ -8,7 +8,7 @@
 
 ## 🌟 Sobre Mí
 
-💡 **Desarrolladora Full Stack Web apasionada** por la tecnología y la creación de soluciones innovadoras. Inicié mi camino en Civil Engineering, pero encontré mi verdadera pasión en el desarrollo web.  
+💡 **Desarrolladora Full Stack Developer apasionada** por la tecnología y la creación de soluciones innovadoras. Inicié mi camino en Ingeniería Civil, pero encontré mi verdadera pasión en el Desarrollo Web.  
 
 📚 **Actualmente** estoy enfocada en mejorar mis habilidades en **React, Next.js y Python**, explorando nuevas tecnologías y creando proyectos desafiantes.  
 
@@ -41,15 +41,15 @@
 
 ### 🤖 **Bot de Discord Automatizado**
 🚀 Un bot con comandos personalizados y API de Spotify.  
-🔗 [Repositorio](https://github.com/yamilabelen98/DiscordBot)  
+🔗 [Repositorio](https://github.com/yamilabelen98/BotDiscord)  
 
 ### 🎮 **Tetris con Pygame**
 🎨 Juego de Tetris interactivo con sonido, controles y pausa.  
-🔗 [Repositorio](https://github.com/yamilabelen98/TetrisPygame)  
+🔗 [Repositorio](https://github.com/yamilabelen98/GAME_TETRIS)  
 
 ### 🐦 **Clon X (App tipo Twitter)**
 💻 Aplicación con autenticación y gestión de publicaciones.  
-🔗 [Repositorio](https://github.com/yamilabelen98/TwitterClone)  
+🔗 [Repositorio](https://github.com/yamilabelen98/Clon-X)  
 
 ---
 
